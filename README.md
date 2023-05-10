@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johrel&label=Profile%20views&color=0e75b6&style=flat" alt="johrel" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=johrel&label=Profile%20views&color=0e75b6&style=flat" alt="johrel" /></p>
 <h1 align="center">Olá 👋, eu sou o Johrel!!!</h1>
 <h3 align="center">Trabalho com BI e sou graduando na pós da PUC-Minas na área de Ciência de Dados e Big Data</h3>
 
